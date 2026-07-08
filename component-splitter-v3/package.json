@@ -1,0 +1,10 @@
+{
+  "name": "rn-component-splitter",
+  "version": "0.3.0",
+  "description": "Project-aware, AST-based tool that splits oversized React/React Native components, infers real prop types from your tsconfig, deduplicates styles project-wide, self-checks its own output with the TypeScript compiler, and can generate starter tests.",
+  "main": "lib/splitComponent.js",
+  "bin": { "rn-component-splitter": "./index.js" },
+  "scripts": { "start": "node index.js" },
+  "license": "MIT",
+  "dependencies": { "typescript": "^5.4.0" }
+}

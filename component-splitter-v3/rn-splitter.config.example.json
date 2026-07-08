@@ -1,0 +1,11 @@
+{
+  "maxComponentLines": 150,
+  "minBlockLinesToExtract": 12,
+  "withTests": false,
+  "sharedStyles": true,
+  "recursive": true,
+  "maxDepth": 2,
+  "format": true,
+  "selfCheck": true,
+  "backup": true
+}
